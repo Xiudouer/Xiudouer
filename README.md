@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/b1c884e2-0801-4254-b43a-07d3071cef77" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/5ff3fd7b-70fd-475b-95fc-998fe4d1a752" />
 <!--
 **Xiudouer/Xiudouer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
