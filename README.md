@@ -1,6 +1,6 @@
-## Hi there 👋<!-- Failed to upload "1280.jpg" -->
-
-
+## Hi there 👋
+<img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/b1c884e2-0801-4254-b43a-07d3071cef77" />
+<!--
 **Xiudouer/Xiudouer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
