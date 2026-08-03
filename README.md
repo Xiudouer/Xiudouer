@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋<!-- Failed to upload "1280.jpg" -->
 
-<!-- Failed to upload "1280.jpg" -->
+
 **Xiudouer/Xiudouer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
