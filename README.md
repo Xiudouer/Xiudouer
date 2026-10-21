@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/5ff3fd7b-70fd-475b-95fc-998fe4d1a752" />
+<img width="1280" height="720" alt="PeaDot — reality, rendered in miniature." src="./assets/peadot-banner.png" />
 <!--
 **Xiudouer/Xiudouer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
